@@ -1,2 +1,4 @@
-# Linear_Graph
+# Linear Graph
 Matlab Toolbox
+
+## News
